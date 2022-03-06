@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\bin\Debug\net6.0\UC-2 PeakAndPopOpration.exe
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\bin\Debug\net6.0\UC-2 PeakAndPopOpration.deps.json
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\bin\Debug\net6.0\UC-2 PeakAndPopOpration.runtimeconfig.json
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\bin\Debug\net6.0\UC-2 PeakAndPopOpration.dll
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\bin\Debug\net6.0\UC-2 PeakAndPopOpration.pdb
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\obj\Debug\net6.0\UC-2 PeakAndPopOpration.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\obj\Debug\net6.0\UC-2 PeakAndPopOpration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\obj\Debug\net6.0\UC-2 PeakAndPopOpration.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\obj\Debug\net6.0\UC-2 PeakAndPopOpration.AssemblyInfo.cs
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\obj\Debug\net6.0\UC-2 PeakAndPopOpration.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\obj\Debug\net6.0\UC-2 PeakAndPopOpration.dll
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\obj\Debug\net6.0\refint\UC-2 PeakAndPopOpration.dll
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\obj\Debug\net6.0\UC-2 PeakAndPopOpration.pdb
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\obj\Debug\net6.0\UC-2 PeakAndPopOpration.genruntimeconfig.cache
+C:\Users\wasimkhanktr\source\repos\UC-2 PeakAndPopOpration\obj\Debug\net6.0\ref\UC-2 PeakAndPopOpration.dll

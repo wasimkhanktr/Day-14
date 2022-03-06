@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\obj\Debug\net6.0\UC-1 CreateStake.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\obj\Debug\net6.0\UC-1 CreateStake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\obj\Debug\net6.0\UC-1 CreateStake.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\obj\Debug\net6.0\UC-1 CreateStake.AssemblyInfo.cs
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\obj\Debug\net6.0\UC-1 CreateStake.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\bin\Debug\net6.0\UC-1 CreateStake.exe
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\bin\Debug\net6.0\UC-1 CreateStake.deps.json
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\bin\Debug\net6.0\UC-1 CreateStake.runtimeconfig.json
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\bin\Debug\net6.0\UC-1 CreateStake.dll
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\bin\Debug\net6.0\UC-1 CreateStake.pdb
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\obj\Debug\net6.0\UC-1 CreateStake.dll
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\obj\Debug\net6.0\refint\UC-1 CreateStake.dll
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\obj\Debug\net6.0\UC-1 CreateStake.pdb
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\obj\Debug\net6.0\UC-1 CreateStake.genruntimeconfig.cache
+C:\Users\wasimkhanktr\source\repos\UC-1 CreateStake\obj\Debug\net6.0\ref\UC-1 CreateStake.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC-3 Enqueue", "UC-3 Enqueue.csproj", "{CAE12A89-3479-466B-AEE5-282A1DB425FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE12A89-3479-466B-AEE5-282A1DB425FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE12A89-3479-466B-AEE5-282A1DB425FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE12A89-3479-466B-AEE5-282A1DB425FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE12A89-3479-466B-AEE5-282A1DB425FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3229AF7C-3313-4013-AB50-8233021E4C94}
+	EndGlobalSection
+EndGlobal

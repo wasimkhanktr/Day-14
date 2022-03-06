@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\bin\Debug\net6.0\UC-3 Enqueue.exe
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\bin\Debug\net6.0\UC-3 Enqueue.deps.json
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\bin\Debug\net6.0\UC-3 Enqueue.runtimeconfig.json
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\bin\Debug\net6.0\UC-3 Enqueue.dll
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\bin\Debug\net6.0\UC-3 Enqueue.pdb
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\obj\Debug\net6.0\UC-3 Enqueue.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\obj\Debug\net6.0\UC-3 Enqueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\obj\Debug\net6.0\UC-3 Enqueue.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\obj\Debug\net6.0\UC-3 Enqueue.AssemblyInfo.cs
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\obj\Debug\net6.0\UC-3 Enqueue.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\obj\Debug\net6.0\UC-3 Enqueue.dll
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\obj\Debug\net6.0\refint\UC-3 Enqueue.dll
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\obj\Debug\net6.0\UC-3 Enqueue.pdb
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\obj\Debug\net6.0\UC-3 Enqueue.genruntimeconfig.cache
+C:\Users\wasimkhanktr\source\repos\UC-3 Enqueue\obj\Debug\net6.0\ref\UC-3 Enqueue.dll
