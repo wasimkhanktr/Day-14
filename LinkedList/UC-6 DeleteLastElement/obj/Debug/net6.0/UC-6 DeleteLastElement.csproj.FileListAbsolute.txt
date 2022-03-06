@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\bin\Debug\net6.0\UC-6 DeleteLastElement.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\bin\Debug\net6.0\UC-6 DeleteLastElement.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\bin\Debug\net6.0\UC-6 DeleteLastElement.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\bin\Debug\net6.0\UC-6 DeleteLastElement.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\bin\Debug\net6.0\UC-6 DeleteLastElement.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\obj\Debug\net6.0\UC-6 DeleteLastElement.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\obj\Debug\net6.0\UC-6 DeleteLastElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\obj\Debug\net6.0\UC-6 DeleteLastElement.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\obj\Debug\net6.0\UC-6 DeleteLastElement.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\obj\Debug\net6.0\UC-6 DeleteLastElement.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\obj\Debug\net6.0\UC-6 DeleteLastElement.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\obj\Debug\net6.0\refint\UC-6 DeleteLastElement.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\obj\Debug\net6.0\UC-6 DeleteLastElement.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\obj\Debug\net6.0\UC-6 DeleteLastElement.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-6 DeleteLastElement\obj\Debug\net6.0\ref\UC-6 DeleteLastElement.dll

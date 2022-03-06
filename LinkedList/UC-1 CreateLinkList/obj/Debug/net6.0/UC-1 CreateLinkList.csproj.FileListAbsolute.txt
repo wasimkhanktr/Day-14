@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\bin\Debug\net6.0\UC-1 CreateLinkList.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\bin\Debug\net6.0\UC-1 CreateLinkList.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\bin\Debug\net6.0\UC-1 CreateLinkList.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\bin\Debug\net6.0\UC-1 CreateLinkList.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\bin\Debug\net6.0\UC-1 CreateLinkList.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\obj\Debug\net6.0\UC-1 CreateLinkList.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\obj\Debug\net6.0\UC-1 CreateLinkList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\obj\Debug\net6.0\UC-1 CreateLinkList.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\obj\Debug\net6.0\UC-1 CreateLinkList.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\obj\Debug\net6.0\UC-1 CreateLinkList.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\obj\Debug\net6.0\UC-1 CreateLinkList.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\obj\Debug\net6.0\refint\UC-1 CreateLinkList.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\obj\Debug\net6.0\UC-1 CreateLinkList.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\obj\Debug\net6.0\UC-1 CreateLinkList.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-1 CreateLinkList\obj\Debug\net6.0\ref\UC-1 CreateLinkList.dll

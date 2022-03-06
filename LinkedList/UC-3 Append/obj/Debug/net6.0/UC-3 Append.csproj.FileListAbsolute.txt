@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\bin\Debug\net6.0\UC-3 Append.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\bin\Debug\net6.0\UC-3 Append.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\bin\Debug\net6.0\UC-3 Append.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\bin\Debug\net6.0\UC-3 Append.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\bin\Debug\net6.0\UC-3 Append.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\obj\Debug\net6.0\UC-3 Append.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\obj\Debug\net6.0\UC-3 Append.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\obj\Debug\net6.0\UC-3 Append.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\obj\Debug\net6.0\UC-3 Append.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\obj\Debug\net6.0\UC-3 Append.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\obj\Debug\net6.0\UC-3 Append.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\obj\Debug\net6.0\refint\UC-3 Append.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\obj\Debug\net6.0\UC-3 Append.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\obj\Debug\net6.0\UC-3 Append.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-14\UC-3 Append\obj\Debug\net6.0\ref\UC-3 Append.dll
